@@ -8,6 +8,5 @@
 <p>Load in all the .csv files to your local directory to perform analysis on the data. To see what steps I took, view the soccer trends HTML or ipynb file. </p>
 
 
-## Known Issues
-    *Cereal (you can find cool cereals <a href="www.example.com/coolcereals">here</a>)<br>
-    *Milk
+## Key Points
+    *The majority of the pertinent data is contained in the match.csv file (this contains the info for all the matches; ie goals, assits, score etc.) There are many games in this data set with missing entries, such as not knowing the goal scorer, or what type of goal it was, so keep this in mind when cleaning your data
