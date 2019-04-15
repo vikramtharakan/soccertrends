@@ -9,4 +9,5 @@
 
 
 ## Key Points
-    *The majority of the pertinent data is contained in the match.csv file (this contains the info for all the matches; ie goals, assits, score etc.) There are many games in this data set with missing entries, such as not knowing the goal scorer, or what type of goal it was, so keep this in mind when cleaning your data
+    * The majority of the pertinent data (goalscorer, assist, goaltype, etc.) is contained in the match.csv file
+    * There are many games in this data set with missing entries, so keep this in mind when cleaning your data
